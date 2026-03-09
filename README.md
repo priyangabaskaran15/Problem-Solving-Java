@@ -1,2 +1,3 @@
 # Problem-Solving-Java
-A repository of Java programs focused on practicing problem solving
+This repository contains solutions to programming problems using Java.
+It helps improve problem-solving skills and coding practice.
